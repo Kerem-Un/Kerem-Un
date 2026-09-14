@@ -18,4 +18,4 @@ Data Science Honors student at Purdue University specializing in machine learnin
 ---
 
 ### 📊 Stats
-![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=nord)
+![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerem-Un&show_icons=true&theme=nord)
