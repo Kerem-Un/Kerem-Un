@@ -15,7 +15,4 @@ Data Science Honors student at Purdue University specializing in machine learnin
 **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib  
 **Developer Tools:** Git, Linux/Bash, Docker, VS Code, Jupyter Notebooks  
 
----
 
-### 📊 Stats
-![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerem-un&show_icons=true&theme=nord)
