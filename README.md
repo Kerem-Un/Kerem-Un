@@ -5,7 +5,7 @@ Data Science Honors student at Purdue University specializing in machine learnin
 - 🎓 **Education:** B.S. in Data Science — John Martinson Honors College, Purdue University
 - 🎯 **Focus Areas:** Machine Learning Engineering, Quantitative Risk Modeling, Predictive Analytics
 - 🛠️ **Current Work:** Building quantitative risk engines and research pipelines for explainable AI
-- 📫 **Contact:** kunal@purdue.edu | [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 **Contact:** kunal@purdue.edu | [LinkedIn](https://linkedin.com/in/kerem-unal07)
 
 ---
 
@@ -18,4 +18,4 @@ Data Science Honors student at Purdue University specializing in machine learnin
 ---
 
 ### 📊 Stats
-![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerem-Un&show_icons=true&theme=nord)
+![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerem-un&show_icons=true&theme=nord)
