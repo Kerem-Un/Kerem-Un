@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kerem Unal 👋
 
-<!--
-**Kerem-Un/Kerem-Un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Honors student at Purdue University specializing in machine learning, quantitative analytics, and software design.
 
-Here are some ideas to get you started:
+- 🎓 **Education:** B.S. in Data Science — John Martinson Honors College, Purdue University
+- 🎯 **Focus Areas:** Machine Learning Engineering, Quantitative Risk Modeling, Predictive Analytics
+- 🛠️ **Current Work:** Building quantitative risk engines and research pipelines for explainable AI
+- 📫 **Contact:** kunal@purdue.edu | [LinkedIn](https://linkedin.com/in/your-profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+
+**Languages:** Python, Java, C/C++, R  
+**Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib  
+**Developer Tools:** Git, Linux/Bash, Docker, VS Code, Jupyter Notebooks  
+
+---
+
+### 📊 Stats
+![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=nord)
